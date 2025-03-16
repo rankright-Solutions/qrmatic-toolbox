@@ -67,3 +67,5 @@ Simply open [Lovable](https://lovable.dev/projects/17b9dd66-5138-4659-addf-e3ff5
 ## I want to use a custom domain - is that possible?
 
 We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+
+Visit Live Project <a href="(https://qrcode-monkey.org/)" class="text-green-700 hover:underline">QR Code Monkey</a>
